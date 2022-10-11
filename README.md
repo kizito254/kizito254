@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @kizito a
-- 👀 I’m interested in programming using Java, python, c++, c#, Ruby
-- 🌱 I’m currently freelancing as aprogrammer
-- 📫 How to reach me through 0715401723 or wanyonyikizy@gmail.com and on instagram : kizy_technolgies
 
-<!---
-kizito254/kizito254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![20221011_105553_0000](https://user-images.githubusercontent.com/91085176/195032510-0985da05-c826-4a5c-b83a-102ce776f60f.png)
