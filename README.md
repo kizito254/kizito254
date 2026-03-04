@@ -1,7 +1,5 @@
 # Hi, I'm Kizito 👋
 
-![20221011_105553_0000](https://user-images.githubusercontent.com/91085176/195032510-0985da05-c826-4a5c-b83a-102ce776f60f.png)
-
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## My Skills
