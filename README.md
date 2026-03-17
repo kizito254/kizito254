@@ -18,3 +18,7 @@
 
 ## Need Help?
 If you need help with software development, school work, websites, apps, APIs, databases, automation, or complete project delivery, feel free to reach out. I’m an all-round programmer and I’m open to collaborating on projects of any size.
+
+## Contact
+- WhatsApp: [Chat on WhatsApp](https://wa.me/254715401723)
+- Telegram: [Message on Telegram](https://t.me/+254715401723)
